@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat");
+
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	color: black;
+	font-family: 'Montserrat', sans-serif;
+	margin: 0px;
+}
+
+h1, h2 {
+	font-weight: 100;
+} 
+
+p {
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}

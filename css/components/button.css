@@ -1,0 +1,16 @@
+.button-lightgrey {
+	background-color: rgb(240,240,240);
+	padding: 10px 15px;
+	border-radius: 5px;
+	color: black;
+	font-weight: lighter;
+	font-family: 'Montserrat', sans-serif;
+
+}
+
+.button-lightgrey:hover {
+	transition: 0.9s;
+	background-color: black;
+	color: white;
+
+}
